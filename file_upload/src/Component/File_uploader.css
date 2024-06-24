@@ -1,0 +1,40 @@
+.file-uploader {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 300px;
+  }
+  
+  .file-input {
+    margin-bottom: 10px;
+  }
+  
+  .upload-btn {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 8px 16px;
+    cursor: pointer;
+    border-radius: 3px;
+  }
+  
+  .upload-btn:hover {
+    background-color: #0056b3;
+  }
+  
+  .progress-bar-container {
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+  }
+  
+  .progress-bar {
+    width: 100%;
+  }
+  
+  .status {
+    margin-top: 10px;
+    font-weight: bold;
+  }
+  
